@@ -1,0 +1,59 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("flaticon.ttf") format("truetype"),
+url("../fonts/flaticon.woff?95a56ff57e8d0557ee40da3b6ed5f46e") format("woff"),
+url("../fonts/flaticon.woff2?95a56ff57e8d0557ee40da3b6ed5f46e") format("woff2"),
+url("../fonts/flaticon.eot?95a56ff57e8d0557ee40da3b6ed5f46e#iefix") format("embedded-opentype"),
+url("../fonts/flaticon.svg?95a56ff57e8d0557ee40da3b6ed5f46e#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-water-drop:before {
+    content: "\f101";
+}
+.flaticon-water-drop-1:before {
+    content: "\f102";
+}
+.flaticon-recycle:before {
+    content: "\f103";
+}
+.flaticon-glass:before {
+    content: "\f104";
+}
+.flaticon-water-glass:before {
+    content: "\f105";
+}
+.flaticon-water-bottle:before {
+    content: "\f106";
+}
+.flaticon-water-bottle-1:before {
+    content: "\f107";
+}
+.flaticon-water:before {
+    content: "\f108";
+}
+.flaticon-water-1:before {
+    content: "\f109";
+}
+.flaticon-draw-check-mark:before {
+    content: "\f10a";
+}
+.flaticon-check:before {
+    content: "\f10b";
+}
+.flaticon-cancel:before {
+    content: "\f10c";
+}
+.flaticon-close:before {
+    content: "\f10d";
+}

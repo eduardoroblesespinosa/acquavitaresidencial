@@ -1,0 +1,395 @@
+/* template-color */
+
+.scroll-top {
+    background-color: #236092;
+}
+
+.handle-preloader {
+    background-color: #74c3d5;
+}
+
+.preloader-close {
+    color: #236092;
+}
+
+.theme-btn.btn-one {
+    background-color: #236092;
+}
+
+.theme-btn:before {
+    background-color: #74c3d5;
+}
+
+.main-header .nav-right .cart-box a span {
+    background-color: #236092;
+}
+
+.main-header .search-box-btn:hover {
+    color: #236092;
+}
+
+.main-header .nav-right .cart-box a:hover {
+    color: #236092;
+}
+
+.main-menu .navigation>li.current>a,
+.main-menu .navigation>li:hover>a {
+    color: #236092;
+}
+
+.main-menu .navigation>li>ul>li>a:hover,
+.main-menu .navigation>li>.megamenu li>a:hover {
+    color: #236092;
+}
+
+.main-menu .navigation>li>ul>li>ul>li>a:hover {
+    color: #236092;
+}
+
+.banner-carousel .content-box .btn-box .theme-btn:hover {
+    color: #236092 !important;
+}
+
+.feature-block-one .inner-box .icon-box {
+    color: #236092;
+}
+
+.service-block-one .inner-box .icon-box {
+    color: #236092;
+}
+
+.service-block-one .inner-box h4 a:hover {
+    color: #236092;
+}
+
+.bg-color-2 {
+    background-color: #74c3d5;
+}
+
+.content_block_2 .content-box .single-item .icon-box {
+    background-color: #236092;
+}
+
+.theme-btn.btn-two:before {
+    background-color: #236092;
+}
+
+.theme-btn.btn-two:hover {
+    border-color: #236092;
+}
+
+.shop-block-one .inner-box .lower-content h4 a:hover {
+    color: #236092;
+}
+
+.shop-block-one .inner-box .lower-content h6 {
+    color: #236092;
+}
+
+.testimonial-block-one .inner-box .rating li {
+    color: #f1c734;
+}
+
+.testimonial-block-one .inner-box .designation {
+    color: #236092;
+}
+
+.testimonial-section .owl-dots .owl-dot.active span,
+.testimonial-section .owl-dots span:hover {
+    background-color: #236092 !important;
+}
+
+.team-block-one .inner-box .image-box .social-links li a:hover {
+    background-color: #236092;
+}
+
+.team-block-one .inner-box .lower-content h4 a:hover {
+    color: #236092;
+}
+
+.team-block-one .inner-box .lower-content .share-box a:hover {
+    background-color: #236092;
+}
+
+.content_block_3 .content-box .theme-btn:hover {
+    color: #236092 !important;
+}
+
+.news-block-one .inner-box .lower-content .category a {
+    color: #236092;
+}
+
+.news-block-one .inner-box .lower-content h4 a:hover {
+    color: #236092;
+}
+
+.news-block-one .inner-box .lower-content .post-info li a:hover {
+    color: #236092;
+}
+
+.main-footer .footer-top .text h2 span {
+    color: #236092;
+}
+
+.main-footer .footer-top .support-box a {
+    background-color: #236092;
+}
+
+.main-footer .contact-widget .info-list li a:hover {
+    color: #236092;
+}
+
+.main-footer .contact-widget .info-list li i {
+    color: #236092;
+}
+
+.main-footer .links-widget .links-list li a:hover {
+    color: #236092;
+}
+
+.main-footer .links-widget .links-list li a:before {
+    background-color: #236092;
+}
+
+.main-footer .subscribe-widget .form-group button {
+    background-color: #236092;
+}
+
+.main-footer .subscribe-widget .form-group input:focus {
+    border-color: #236092 !important;
+}
+
+.footer-bottom .copyright p a {
+    color: #236092;
+}
+
+.footer-bottom .social-links li a:hover {
+    background-color: #236092;
+}
+
+.footer-bottom .footer-nav li a:hover {
+    color: #236092;
+}
+
+.banner-carousel .owl-nav button:hover {
+    background-color: #236092;
+}
+
+.banner-style-two .banner-carousel .content-box .btn-box .banner-btn:before {
+    background-color: #236092;
+}
+
+.banner-style-two .banner-carousel .content-box .btn-box .banner-btn:hover {
+    border-color: #236092;
+}
+
+.content_block_4 .content-box .list li:before {
+    color: #236092;
+}
+
+.content_block_5 .form-inner .form-group input:focus,
+.content_block_5 .form-inner .form-group textarea:focus {
+    border-color: #236092 !important;
+}
+
+.image_block_2 .image-box .text h2 {
+    color: #236092;
+}
+
+.pricing-section .tab-btn-box .tab-btns li.active-btn {
+    background-color: #236092;
+    border-color: #236092;
+}
+
+.pricing-block-one .pricing-table .price-box {
+    background-color: #236092;
+}
+
+.pricing-block-one .pricing-table .table-content .feature-list li:before {
+    color: #74c3d5;
+}
+
+.testimonial-style-two .owl-dots .owl-dot.active span,
+.testimonial-style-two .owl-dots span:hover {
+    background-color: #236092 !important;
+}
+
+.testimonial-block-two .inner-box .rating li {
+    color: #f1c734;
+}
+
+.testimonial-block-two .inner-box .designation {
+    color: #236092;
+}
+
+.page-title .bread-crumb li {
+    color: #236092;
+}
+
+.page-title .bread-crumb li a:hover {
+    color: #236092;
+}
+
+.testimonial-style-three .inner-box .rating li {
+    color: #f1c734;
+}
+
+.testimonial-style-three .inner-box .designation {
+    color: #236092;
+}
+
+.accordion-box .block .acc-btn.active h4 {
+    background-color: #236092;
+}
+
+.faq-sidebar .form-inner form .form-group input:focus,
+.faq-sidebar .form-inner form .form-group textarea:focus {
+    border-color: #236092 !important;
+}
+
+.sortable-masonry .filters .filter-tabs li.active {
+    background-color: #236092;
+    border-color: #236092;
+}
+
+.service-block-two .inner-box .icon-box .icon {
+    background-color: #236092;
+}
+
+.service-block-two .inner-box h4 a:hover {
+    color: #236092;
+}
+
+.service-details-content .content-two .inner-box .single-item .icon-box {
+    background-color: #236092;
+}
+
+.service-sidebar .category-list li a.current,
+.service-sidebar .category-list li a:hover {
+    border-color: #236092;
+}
+
+.service-sidebar .category-list li a:before {
+    background-color: #236092;
+}
+
+.default-sidebar .sidebar-search .form-group input:focus {
+    border-color: #236092 !important;
+}
+
+.default-sidebar .sidebar-search .form-group input:focus+button,
+.default-sidebar .sidebar-search .form-group button:hover {
+    color: #236092;
+}
+
+.default-sidebar .sidebar-category .category-list li a i {
+    color: #236092;
+}
+
+.default-sidebar .sidebar-category .category-list li a:hover {
+    color: #236092;
+}
+
+.range-slider .filter-btn {
+    background-color: #236092;
+}
+
+.default-sidebar .tags-widget .tags-list li a:hover {
+    border-color: #236092;
+    background-color: #236092;
+}
+
+.product-details-content .image-box .preview-link a:hover {
+    border-color: #236092;
+    background-color: #236092;
+}
+
+.product-details-content .product-details .rating li {
+    color: #ffb83d;
+}
+
+.product-details-content .product-details .customer-rating .review a:hover {
+    color: #236092;
+}
+
+.product-details-content .product-details .addto-cart-box .clearfix li a:hover {
+    border-color: #236092;
+    background-color: #236092;
+}
+
+.product-details-content .product-details .other-option .social-links li a:hover {
+    color: #236092;
+}
+
+.shop-details .product-discription .tabs-content .customer-review .single-review .inner .rating li {
+    color: #ffb83d;
+}
+
+.shop-details .product-discription .tabs-content .customer-comments .rating-box .rating li {
+    color: #ffb83d;
+}
+
+.shop-details .product-discription .tabs-content .customer-comments .comment-form .form-group input:focus,
+.shop-details .product-discription .tabs-content .customer-comments .comment-form .form-group textarea:focus {
+    border-color: #236092 !important;
+}
+
+.cart-section .cart-table tbody tr .prod-column .column-box .remove-btn:hover {
+    background-color: #236092;
+    border-color: #236092;
+}
+
+.cart-section .othre-content .coupon-box button {
+    background-color: #236092;
+}
+
+.checkout-section .upper-box .single-box a {
+    color: #236092;
+}
+
+.checkout-section .billing-form .form-group input:focus {
+    border-color: #236092 !important;
+}
+
+.pagination li a:hover,
+.pagination li a.current {
+    background-color: #236092;
+    border-color: #236092;
+}
+
+.blog-sidebar .post-widget .post h5 a:hover {
+    color: #236092;
+}
+
+.blog-sidebar .archives-widget .archives-list li a:hover {
+    color: #236092;
+}
+
+.news-block-one .inner-box .lower-content h3 a:hover {
+    color: #236092;
+}
+
+.blog-details-content .content-one blockquote .icon-box {
+    color: #236092;
+}
+
+.blog-details-content .post-share-option .social-links li a:hover {
+    background-color: #236092;
+}
+
+.blog-details-content .comment-box .comment .reply-btn:hover {
+    color: #236092;
+}
+
+.default-form .form-group input:focus,
+.default-form .form-group textarea:focus {
+    border-color: #236092 !important;
+}
+
+.contact-style-two .info-list li i {
+    color: #236092;
+}
+
+.contact-style-two .info-list li p a:hover {
+    color: #236092;
+}
